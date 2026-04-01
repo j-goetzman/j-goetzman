@@ -70,13 +70,17 @@ My journey into IT has led me to develop a passion for cybersecurity, and I'm no
 </div>
 
 ## Certifications
-<div>
-<a href="https://www.credly.com/badges/c7f3f9e5-bd5e-4ba7-8635-b80ec1a35c6b/public_url"> <img src="https://images.credly.com/size/340x340/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" width="150" height="150" /></a>
-<a href="https://www.credly.com/badges/de2c6dc2-bf13-43b7-ba53-997c030be7af/public_url"> <img src="https://images.credly.com/size/340x340/images/eda22a60-7b46-426c-89df-681b25600b9f/blob" width="150" /></a>
-<a href="https://www.credly.com/badges/4bd91e28-a386-48ba-9974-fbb8c2a7b325/public_url"> <img src="https://images.credly.com/size/340x340/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png" width="150" /></a>
-<a href="https://www.credly.com/badges/2d222a01-57a8-452e-be3e-a03ba773fc39/public_url"> <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width="150" /></a>
-<a href="https://www.credly.com/badges/8421acba-1f98-4fda-98d1-285ba5b2c864/public_url"> <img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" width="150" /></a>
-<a href="https://www.credly.com/badges/bfe793d3-eca7-4f88-9fb1-0eae11bb0105/public_url"> <img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" width="150" /></a>
+<div>    
+    <a href="https://www.credly.com/badges/de2c6dc2-bf13-43b7-ba53-997c030be7af/public_url"> <img width="150" height="150" alt="SecX+" src="https://github.com/user-attachments/assets/bba1ce74-de0a-48d0-ab94-3f02b0071941" /></a>
+    <a href="https://www.credly.com/badges/05403d97-0ceb-4fc7-afc5-1f954016a856/public_url"> <img width="150" height="150" alt="PenTest+" src="https://github.com/user-attachments/assets/a5c1feb1-da78-43d0-96c9-360ec4a31d4b" /></a>
+    <a href="https://www.credly.com/badges/4bd91e28-a386-48ba-9974-fbb8c2a7b325/public_url"> <img width="150" height="150" alt="CySA+" src="https://github.com/user-attachments/assets/7e6627ea-29d6-4217-91d1-6e0f86265afc" /></a>
+    <a href="https://www.credly.com/badges/2d222a01-57a8-452e-be3e-a03ba773fc39/public_url"> <img width="150" height="150" alt="Sec+" src="https://github.com/user-attachments/assets/ffb812ca-5639-4e3c-a695-ff982629299f" /></a>
+    <a href="https://www.credly.com/badges/8421acba-1f98-4fda-98d1-285ba5b2c864/public_url"> <img width="150" height="150" alt="Net+" src="https://github.com/user-attachments/assets/5722a889-202f-4092-b245-54c05d2f5e82" /></a>
+    <a href="https://www.credly.com/badges/bfe793d3-eca7-4f88-9fb1-0eae11bb0105/public_url"> <img width="150" height="150" alt="A+" src="https://github.com/user-attachments/assets/069aaf6d-0123-4f87-8718-47988998861a" /></a>
+    <a href="https://www.credly.com/badges/c7f3f9e5-bd5e-4ba7-8635-b80ec1a35c6b/public_url"> <img src="https://images.credly.com/size/340x340/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" width="150" height="150" /></a>
+    <a href="https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJwk9P%2bK8KaHMadMgVWneDX"> <img width="150" height="150" alt="ITIL4" src="https://github.com/user-attachments/assets/b1e90e92-9ed1-40f7-ab1c-f9c2a997f6f4" /></a>
+    <a href="https://www.credly.com/badges/6ef8c90a-0c43-4269-a2be-f67a5a1deddc/public_url"> <img width="150" height="150" alt="Project+" src="https://github.com/user-attachments/assets/ef3bfaba-e01f-487a-b343-3db8aa3ad8bf" /></a>
+    <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000681985/8mxsua7jcs"> LPI Essentials placeholder here</a>
 </div>
 
 ## Projects
