@@ -80,7 +80,7 @@ My journey into IT has led me to develop a passion for cybersecurity, and I'm no
     <a href="https://www.credly.com/badges/c7f3f9e5-bd5e-4ba7-8635-b80ec1a35c6b/public_url"> <img src="https://images.credly.com/size/340x340/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" width="150" height="150" /></a>
     <a href="https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJwk9P%2bK8KaHMadMgVWneDX"> <img width="150" height="150" alt="ITIL4" src="https://github.com/user-attachments/assets/b1e90e92-9ed1-40f7-ab1c-f9c2a997f6f4" /></a>
     <a href="https://www.credly.com/badges/6ef8c90a-0c43-4269-a2be-f67a5a1deddc/public_url"> <img width="150" height="150" alt="Project+" src="https://github.com/user-attachments/assets/ef3bfaba-e01f-487a-b343-3db8aa3ad8bf" /></a>
-    <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000681985/8mxsua7jcs"> LPI Essentials placeholder here</a>
+    <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000681985/8mxsua7jcs"> <img width="150" height="150" alt="LPI" src="https://github.com/user-attachments/assets/9950e733-1174-48ba-9685-74be880726aa" /></a>
 </div>
 
 ## Projects
